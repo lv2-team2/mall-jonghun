@@ -1,0 +1,10 @@
+/home/project/customercenter/src/main/java/mall/Ordered.java
+/home/project/customercenter/src/main/java/mall/CustomercenterApplication.java
+/home/project/customercenter/src/main/java/mall/Shipped.java
+/home/project/customercenter/src/main/java/mall/DeliveryCancelled.java
+/home/project/customercenter/src/main/java/mall/config/kafka/KafkaProcessor.java
+/home/project/customercenter/src/main/java/mall/MypageRepository.java
+/home/project/customercenter/src/main/java/mall/AbstractEvent.java
+/home/project/customercenter/src/main/java/mall/Mypage.java
+/home/project/customercenter/src/main/java/mall/PolicyHandler.java
+/home/project/customercenter/src/main/java/mall/MypageViewHandler.java
